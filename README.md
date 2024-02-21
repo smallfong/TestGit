@@ -10,3 +10,4 @@ feature-a
 test abc1
 test abc2
 test abc4
+test abc6
