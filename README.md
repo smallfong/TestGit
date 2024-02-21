@@ -5,3 +5,4 @@ change 3devfeature-a
 feature-a4
 dev
 feature-b
+feature-b 1
