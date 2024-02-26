@@ -19,4 +19,5 @@ test abc8-d
 test abc9-dev
 test abc9-d1
 test abc9-d2
+test abc10-d
 test abc10-e1
