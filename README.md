@@ -24,3 +24,4 @@ test abc10-e1
 test dev-1
 test feature-f-1
 test dev-2
+test feature-f-2
