@@ -36,3 +36,4 @@ test dev-7
 test dev-8
 dev commit1
 feature-b commit1
+dev commit3
