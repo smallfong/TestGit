@@ -38,3 +38,4 @@ dev commit1
 feature-b commit1
 dev commit3
 feature-b commit2
+dev commit4
